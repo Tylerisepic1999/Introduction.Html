@@ -1,0 +1,8 @@
+echo "# Tyler-s-Portfolio-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Tylerisepic1999/Tyler-s-Portfolio-.git
+git push -u origin main 
+file:///D:/Sabertooth3%20User%20Profile%20_%20DeviantArt.html 
